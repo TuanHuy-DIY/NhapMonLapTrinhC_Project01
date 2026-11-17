@@ -1,0 +1,12 @@
+# File executable
+*.exe
+
+# Object files
+*.o
+
+# Code::Blocks layout
+*.layout
+
+# Build directories
+bin/
+obj/
